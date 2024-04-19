@@ -1,4 +1,4 @@
-// ERROR_UNEXPECTED_TYPE_FOR_EXPRESSION
+// ERROR_NOT_A_REFERENCE
 language core;
 extend with #references;
 
